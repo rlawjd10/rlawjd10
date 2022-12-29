@@ -1,9 +1,9 @@
-<!--header-->
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=778899&height=300&section=header&text=jeongeun%20Kim&fontSize=65)
-
-
-
 <div align="center">
+	
+<!--header-->
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=778899&height=300&section=header&text=Hello,%20I'm%20Jeongeun&fontSize=65)
+---
+
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
