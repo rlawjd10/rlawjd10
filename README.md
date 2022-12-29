@@ -31,7 +31,7 @@
  
  # :mailbox_with_mail:Me
  <a href="https://fresher-developmentlog.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://fresher-developmentlog.tistory.com/"/></a>
- <a href=rlawjd10eun@gmail.com><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=rlawjd10eun@gmail.com"/>
+ <a href="rlawjd10eun@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=rlawjd10eun@gmail.com"/>
 	
  <br><br>
 
