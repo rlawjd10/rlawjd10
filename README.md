@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rlawjd10&show_icons=true">
   <br><br>
 <!--Baekjoon-->
-  <img src="http://mazandi.herokuapp.com/api?handle=je241573&theme=dark"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=je241573&theme=warm"/>
 <div>
   
 <!--
